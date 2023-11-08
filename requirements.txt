@@ -1,0 +1,11 @@
+numpy
+pandas
+pymysql
+python-dotenv
+mysql-connector-python
+dataclasses
+scikit-learn
+Flask
+dill
+imbalanced-learn
+#-e .
